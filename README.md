@@ -1,6 +1,6 @@
-# PythonSetup
+# NewPy
 
-The newpy project setup automates the initialization process for new Python projects via Bash, facilitating the creation of essential project structures and configurations. This script expedites the start of Python projects for developers.
+The newpy project setup automates the initialization process for new Python projects via Bash, facilitating the creation of essential project structures and configurations.
 
 ## Table of Contents
   - [Overview](#overview)
